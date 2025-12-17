@@ -83174,7 +83174,7 @@ A.tJ.prototype={
 a1M(a){var s=null
 return new A.qj(A.aV("color_theme_section"),A.c([new A.bK(B.FD,A.b_(A.aV("color_theme_description"),s,s,s,A.H(a).ok.z,s,s),s),new A.da($.Gy(),new A.ad6(),s,s,t.jh)],t.p),s)},
 L(a){var s,r=null,q=A.asJ(r,!0,r,A.b_(A.aV("settings_title"),r,r,r,r,r,r)),p=t.p
-p=A.c([new A.qj(A.aV("theme_section"),A.c([new A.da($.Gx(),new A.ada(),r,r,t.D0)],p),r),B.c_,new A.qj(A.aV("language_section"),A.c([new A.da($.qA(),new A.adb(),r,r,t.x_)],p),r),B.c_,new A.EF(r),B.c_,new A.CR(r),B.c_,this.a1M(a),B.c_,new A.qj(A.aV("about_section"),A.c([A.K6(!1,r,r,r,!0,r,r,!0,r,B.GE,r,r,!1,r,r,r,B.UN,r,A.b_(A.aV("version"),r,r,r,r,r,r),r,r,r)],p),r)],p)
+p=A.c([new A.qj(A.aV("theme_section"),A.c([new A.da($.Gx(),new A.ada(),r,r,t.D0)],p),r),B.c_,new A.qj(A.aV("language_section"),A.c([new A.da($.qA(),new A.adb(),r,r,t.x_)],p),r),B.c_,new A.EF(r),B.c_,new A.CR(r),B.c_,this.a1M(a),B.c_,new A.qj(A.aV("about_section"),A.c([A.K6(!1,r,r,r,!0,r,r,!0,r,B.GE,r,r,!1,r,r,r,B.UO,r,A.b_(A.aV("version"),r,r,r,r,r,r),r,r,r)],p),r)],p)
 s=A.ao([null,0],t.LO,t.S)
 return A.ab9(q,A.mx(!0,new A.K7(new A.adB(!0,!0,!0,p,s),B.fB,B.aY,!1,r,r,B.A2,!1,r,11,B.P,r,r,B.L,B.aw,r),B.av,!0))}}
 A.ad6.prototype={
@@ -89640,8 +89640,8 @@ B.PF=new A.iO(3,"hide")
 B.Yd=new A.iO(4,"remove")
 B.yT=new A.iO(5,"timeout")
 B.PG=new A.tQ(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.UO=new A.hr("Reconnected successfully!",null,null,null,null,null,null,null,null)
-B.PH=new A.mL(B.UO,B.u3,null,null,null,null,null,null,null,null,null,null,null,B.cC,null,null,null,B.L,null)
+B.UN=new A.hr("Reconnected successfully!",null,null,null,null,null,null,null,null)
+B.PH=new A.mL(B.UN,B.u3,null,null,null,null,null,null,null,null,null,null,null,B.cC,null,null,null,B.L,null)
 B.US=new A.hr("Waiting for opponent to approve restart...",null,null,null,null,null,null,null,null)
 B.PI=new A.mL(B.US,B.dq,null,null,null,null,null,null,null,null,null,null,null,B.cC,null,null,null,B.L,null)
 B.yU=new A.AO(0,"permissive")
@@ -90010,7 +90010,7 @@ B.TT=new A.n(!0,B.k,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.QT=new A.n(!0,B.k,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.UL=new A.dN(B.Sx,B.RA,B.Sy,B.T8,B.Re,B.Rl,B.RV,B.SV,B.S8,B.TE,B.QJ,B.R3,B.TA,B.TT,B.QT)
 B.UM=new A.hr("[",null,null,null,null,null,null,null,null)
-B.UN=new A.hr("1.0.1",null,null,null,null,null,null,null,null)
+B.UO=new A.hr("0.1.2",null,null,null,null,null,null,null,null)
 B.UP=new A.hr("]",null,null,null,null,null,null,null,null)
 B.SB=new A.n(!0,null,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.UQ=new A.hr("Reconnect to Last Room",null,B.SB,null,null,null,null,null,null)
